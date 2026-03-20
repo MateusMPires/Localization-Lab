@@ -75,7 +75,7 @@ Demonstramos o uso do tipo `Measurement` para gerenciar a conversão automática
 
 ## 👨‍💻 Desenvolvedor
 
-* **Mateus Martins Pires** - [LinkedIn](COLOQUE-SEU-LINK-AQUI)
+* **Mateus Martins Pires** - [LinkedIn](https://www.linkedin.com/in/mateusmpiress/)
 
 ---
 
